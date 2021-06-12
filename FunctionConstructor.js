@@ -1,4 +1,4 @@
-function counter() {
+function Counter() {
   var count = 0;
   this.incrementCounter = function () {
     // anonimus function
@@ -10,5 +10,5 @@ function counter() {
     console.log(count);
   };
 }
-var counter1 = new counter();
+var counter1 = new Counter();
 counter1.incrementCounter();
