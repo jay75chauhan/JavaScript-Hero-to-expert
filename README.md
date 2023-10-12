@@ -12,3 +12,8 @@
 </object>
 
 [namaste-javascript-notes.pdf](https://github.com/jay75chauhan/javascript-work/files/12857933/namaste-javascript-notes.pdf)
+
+
+## JavaScript Visualized: the JavaScript Engine
+
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pHrmQNaA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/q0vxo5pcm6qjo14k0ami.png" />
